@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾 Iniciante na área da programação<br>📚 Aluno do Ensino Médio<br>🎯 Objetivos: Compartilhar e visualizar projetos na plataforma<br>➕ Sou bom em Matemática</p>
+<p align="left">👾 Iniciante na área da programação<br>📚 Aluno do Ensino Médio no curso de Desenvolvimento de Sistemas<br>🎯 Objetivos: Compartilhar e visualizar projetos na plataforma<br>➕ Sou bom em Matemática</p>
 
 ###
 
@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <a href="guilherme.dev.morais@gmail.com" target="_blank">
+  <a href="malito:guilherme.dev.morais@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
