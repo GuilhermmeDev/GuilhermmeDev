@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾 Iniciante na área da programação<br>📚 Aluno do Ensino Médio no curso de Desenvolvimento de Sistemas<br>🎯 Objetivos: Compartilhar e visualizar projetos na plataforma<br>➕ Sou bom em Matemática</p>
+<p align="left">👾 Iniciante na área da programação<br>📚 Aluno do Ensino Médio no curso de Desenvolvimento de Sistemas<br>🎯 Objetivos: Compartilhar e visualizar projetos na plataforma<br>➕ Aluno Olímpico de Matemática</p>
 
 ###
 
