@@ -1,55 +1,67 @@
-<h1 align="left">Olá! Bem vindo ao meu perfil no GitHub</h1>
+<h1 align="center">👋 Olá! Eu sou o Guilherme Morais</h1>
 
-###
+<p align="center">
+  <b>Desenvolvedor Back-End</b> | Laravel | Next.js | Node.js | TypeScript | PostgreSQL
+</p>
 
-<p align="left">Me chamo Guilherme e sou desenvolvedor full-stack e mostro meus projetos por aqui.</p>
+---
 
-###
+### 🚀 Sobre mim
 
-<h2 align="left">Sobre mim</h2>
+Sou um desenvolvedor de software com foco em **Back-End**, apaixonado por criar APIs eficientes, escaláveis e com código limpo. Trabalho principalmente com **Laravel**, **Next.js**, **Node.js** e **PostgreSQL**, sempre buscando as melhores práticas de desenvolvimento.
 
-###
+Também já atuei como **Scrum Master**, facilitando a organização de times multidisciplinares usando **Scrum** e **Kanban**.
 
-<p align="left">📚 Competidor olímpico de Programação e Matemática<br>🎯 Entusiasta do mundo da tecnologia</p>
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
-<h2 align="left">Linguagens</h2>
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+### 📌 Principais Projetos
 
-###
+- 🔗 [**Doe.It**](https://github.com/GuilhermmeDev/doe.it) – Plataforma de doações com QR Code e painel de validação.
+- 🔗 [**MCPFlix**](https://github.com/GuilhermmeDev/mcpflix_project) – Plataforma de streaming escolar feita com Next.js e Supabase.
+- 🔗 [**Lybris**](https://github.com/GuilhermmeDev/Sistema-Biblioteca) – Sistema de bibliotecas integrado à API do Google Books.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-dev-morais/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+> Veja mais projetos no meu repositório público! 🎯
+
+---
+
+### 🏅 Certificações e Conquistas
+
+- ✅ **Google CyberSecurity Professional & AWS Academy Graduate**
+- ✅ Top 100 na **Olimpíada Brasileira de Informática (OBI)** em 2024
+- ✅ Experiência como **Scrum Master** em times com mais de 15 pessoas
+- ✅ Experiência com **APIs REST** em JavaScript
+
+---
+
+### 📫 Onde me encontrar
+
+<p>
+  <a href="https://www.linkedin.com/in/guilherme-dev-morais/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="mailto:guilherme.dev.morais@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pveHB6enU2N3ozZGF3NnBoMWZ4NnkyZWk3d2V4dWtzNXQyYnFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udhngZK2IFTc4/giphy.gif"  />
-</div>
-
-###
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
